@@ -1,0 +1,28 @@
+disabled_rules:
+  - function_parameter_count
+  - nesting
+  - variable_name
+  - weak_delegate
+  - trailing_comma
+opt_in_rules:
+  - empty_count
+  - force_unwrapping
+  - private_outlet
+line_length: 110
+type_body_length:
+  warning: 300
+  error: 400
+excluded:
+  - Carthage/
+  - Frameworks/
+  - Kickstarter-iOS.playground/
+  - Kickstarter-tvOS.playground/
+  - Library/Strings.swift
+  - bin/strings.swift
+reporter: "xcode"
+custom_rules:
+  localized_lensing:
+    name: "Localized Lensing"
+    regex: "\.~\s+Strings\s*\."
+    message: "Capture calls to `Strings` functions using `%~ { _ in Strings... }`"
+    severity: error

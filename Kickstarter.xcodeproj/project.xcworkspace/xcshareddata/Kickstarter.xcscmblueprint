@@ -1,0 +1,114 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "29784667C152F5CE9CF01F6A6D042772E3A7D83D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "56143BFACBB606C93830EB59176C6A4332845E1D" : 9223372036854775807,
+    "542E5EAD47EA299C9005C3138923F693160B998F" : 9223372036854775807,
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 9223372036854775807,
+    "95B2B76D30A924907499B64F859E0EA65474E00D" : 9223372036854775807,
+    "FC1C1FAF7A266661399DC895A2932672C0178ED4" : 9223372036854775807,
+    "39CB70283A1C33AFB5FF861E924945826EDC74FE" : 9223372036854775807,
+    "29784667C152F5CE9CF01F6A6D042772E3A7D83D" : 9223372036854775807,
+    "E139BF47DAAF0281292F8A8A85F2631B9D6680F3" : 9223372036854775807,
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 9223372036854775807,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 9223372036854775807,
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 9223372036854775807,
+    "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4" : 9223372036854775807,
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : 9223372036854775807,
+    "194A7A54F3CE0138A6C320E0643B7C60F8218891" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C24C7036-3423-4F23-A0FD-F113623AEDB5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "56143BFACBB606C93830EB59176C6A4332845E1D" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/Prelude\/",
+    "542E5EAD47EA299C9005C3138923F693160B998F" : "kickstarter-ios\/Frameworks\/ios-snapshot-test-case\/",
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/ReactiveExtensions\/Frameworks\/ReactiveCocoa\/Carthage\/Checkouts\/xcconfigs\/",
+    "95B2B76D30A924907499B64F859E0EA65474E00D" : "kickstarter-ios\/Frameworks\/ios-ksapi\/",
+    "FC1C1FAF7A266661399DC895A2932672C0178ED4" : "kickstarter-ios\/Frameworks\/onepassword-app-extension\/",
+    "39CB70283A1C33AFB5FF861E924945826EDC74FE" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/Argo\/",
+    "29784667C152F5CE9CF01F6A6D042772E3A7D83D" : "kickstarter-ios\/",
+    "E139BF47DAAF0281292F8A8A85F2631B9D6680F3" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/ReactiveExtensions\/",
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/ReactiveExtensions\/Frameworks\/ReactiveCocoa\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "kickstarter-ios\/Frameworks\/AlamofireImage\/Carthage\/Checkouts\/Alamofire\/",
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/ReactiveExtensions\/Frameworks\/ReactiveCocoa\/Carthage\/Checkouts\/Result\/",
+    "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/Argo\/Carthage\/Checkouts\/Runes\/",
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : "kickstarter-ios\/Frameworks\/AlamofireImage\/",
+    "194A7A54F3CE0138A6C320E0643B7C60F8218891" : "kickstarter-ios\/Frameworks\/ios-ksapi\/Frameworks\/Argo\/Carthage\/Checkouts\/Curry\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Kickstarter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Kickstarter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thoughtbot\/Runes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thoughtbot\/Curry.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "194A7A54F3CE0138A6C320E0643B7C60F8218891"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:hoonhoonhoon\/ios-oss.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29784667C152F5CE9CF01F6A6D042772E3A7D83D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/thoughtbot\/Argo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39CB70283A1C33AFB5FF861E924945826EDC74FE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/ReactiveCocoa\/ReactiveCocoa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/facebook\/ios-snapshot-test-case.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "542E5EAD47EA299C9005C3138923F693160B998F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kickstarter\/Kickstarter-Prelude.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56143BFACBB606C93830EB59176C6A4332845E1D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kickstarter\/ios-ksapi",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95B2B76D30A924907499B64F859E0EA65474E00D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/AlamofireImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jspahrsummers\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E084C86B03F81D63323C9E7510697EA528A758C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kickstarter\/Kickstarter-ReactiveExtensions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E139BF47DAAF0281292F8A8A85F2631B9D6680F3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AgileBits\/onepassword-app-extension.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC1C1FAF7A266661399DC895A2932672C0178ED4"
+    }
+  ]
+}
